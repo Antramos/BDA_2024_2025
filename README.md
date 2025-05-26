@@ -1,4 +1,4 @@
-Datasets (fake and news.csv) to be downloaded from:
+Datasets (fake and real.csv) to be downloaded from:
     https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 Actual notebooks (databricks_step_by_step_part1 and part2) are totally functional inside databricks.

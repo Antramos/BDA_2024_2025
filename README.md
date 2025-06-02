@@ -4,8 +4,9 @@ Márcia,
 
 The notebooks to be evaluated for databricks so far are:
 
-"databricks_step_by_step_part1.ipynb"  ==> fake news dataset load and model creation (fake [0], real [1])
-"databricks_step_by_step_part2.ipynb"  ==> streaming simmulation with datasets of tweets to be predicted by the model.
+» "databricks_step_by_step_part1.ipynb"  ==> fake news dataset load and model creation (fake [0], real [1])
+
+» "databricks_step_by_step_part2.ipynb"  ==> streaming simmulation with datasets of tweets to be predicted by the model.
 
 Datasets (fake.csv and real.csv) downloaded from:
     https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
